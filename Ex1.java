@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Cotacao_dolar {
+public class Ex1 {
     public static void main(String[] args) {
         //declacao das variáveis 
         Double Quantidade, Cotacao, Reais;

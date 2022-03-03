@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Calcul_quadrado {
+public class Ex2 {
         public static void main(String[] args) {
         //declarando 
         int n1, n2, n3, n4, resultado;
